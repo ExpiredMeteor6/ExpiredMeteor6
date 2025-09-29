@@ -1,4 +1,4 @@
-# Profile
+## Profile
 Hi, I am Cam,
 I am currently studying Computer Science at the University of Portsmouth,
 
@@ -26,7 +26,7 @@ byte4byte25
 ### I have used
 ![I have used](https://skillicons.dev/icons?i=java,lua,ts)
 
-## 🌐 Technologies & Tools
+## Technologies & Tools
 
 **Cloud & Hosting**  
 ![Hetzner](https://img.shields.io/badge/Hetzner-DC282D?logo=hetzner&logoColor=white)
@@ -41,5 +41,6 @@ byte4byte25
 
 ## Projects
 Currently I have no open source personal repositories or public contributions
+
 All current projects are private, both personal and business related
 
