@@ -10,7 +10,7 @@ I am always interested in helping out with any CS-2 related projects
 
 ## Contact me
 If you wish to get into contact for business reasons please email me at:
-<cameron.gibbons@refactorasoftware.co.uk>
+<cameron.gibbons@refactora.co.uk>
 
 If you have Counter Strike 2 skins you would like to buy or sell, please contact me on discord at:
 byte4byte25
