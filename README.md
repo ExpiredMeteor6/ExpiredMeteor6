@@ -18,13 +18,13 @@ byte4byte25
 ## Languages
 
 ### I am fluent in
-![I am fluent in](https://skillicons.dev/icons?i=python,js)
+![I am fluent in](https://skillicons.dev/icons?i=python)
 
 ### I am familiar with
 ![I am familiar with](https://skillicons.dev/icons?i=golang,html,css,dart)
 
 ### I have used
-![I have used](https://skillicons.dev/icons?i=java,lua,ts)
+![I have used](https://skillicons.dev/icons?i=java,lua,js,ts)
 
 ## Technologies & Tools
 
