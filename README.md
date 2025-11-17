@@ -21,10 +21,10 @@ byte4byte25
 ![I am fluent in](https://skillicons.dev/icons?i=python)
 
 ### I am familiar with
-![I am familiar with](https://skillicons.dev/icons?i=golang,html,css,dart,ruby)
+![I am familiar with](https://skillicons.dev/icons?i=golang,html,css,dart,ruby, ts, js)
 
 ### I have used
-![I have used](https://skillicons.dev/icons?i=java,lua,js,ts)
+![I have used](https://skillicons.dev/icons?i=java,lua)
 
 ## Technologies & Tools
 
